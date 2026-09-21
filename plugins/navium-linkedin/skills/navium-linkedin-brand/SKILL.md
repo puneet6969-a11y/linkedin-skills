@@ -1,6 +1,6 @@
 ---
 name: navium-linkedin-brand
-description: Apply Navium Maritime's brand, audience, maritime expertise, voice, content pillars, and commercial positioning to LinkedIn content. Use whenever the user asks for a LinkedIn post, comment, reply, content plan, profile copy, or content strategy for Navium Maritime, Navium Maritime Shipping Services, 9M Solutions, maritime audits, SIRE 2.0, RISQ 3.1, vetting, crew training, LMS/CMS, marine consultancy, or related maritime B2B topics. This is a companion brand skill: combine it with the relevant LinkedIn writing skill rather than replacing the platform-specific skill.
+description: Apply Navium Maritime's brand, audience, maritime expertise, voice, content pillars, and commercial positioning to LinkedIn content. Use whenever the user asks for a LinkedIn post, comment, reply, content plan, profile copy, or content strategy for Navium Maritime, Navium Maritime Shipping Services, 9M Solutions, maritime audits, SIRE 2.0, RISQ 3.2, vetting, crew training, LMS/CMS, marine consultancy, or related maritime B2B topics. This is a companion brand skill: combine it with the relevant LinkedIn writing skill rather than replacing the platform-specific skill.
 ---
 
 # Navium Maritime LinkedIn Brand Skill
@@ -51,7 +51,7 @@ Prioritize these themes:
    - Evidence and records
    - Closing recurring gaps rather than last-minute preparation
 
-2. RightShip RISQ 3.1
+2. RightShip RISQ 3.2
    - Practical inspection preparation
    - Common observation patterns
    - Shipboard readiness
@@ -128,7 +128,7 @@ Avoid:
 
 Use maritime language naturally:
 - vessel, shipboard, Master, officer, crew, fleet, superintendent
-- vetting, SIRE 2.0, CVIQ, RISQ 3.1, audit, observation, corrective action
+- vetting, SIRE 2.0, CVIQ, RISQ 3.2, audit, observation, corrective action
 - SMS, competency, training, inspection readiness
 
 ## Content structure
@@ -183,7 +183,7 @@ When a service CTA is appropriate, use one clear CTA rather than multiple sales 
 Only mention services that are relevant to the topic:
 - Marine audits
 - SIRE 2.0 preparation
-- RISQ 3.1 preparation
+- RISQ 3.2 preparation
 - Vetting support
 - Crew training
 - E-learning

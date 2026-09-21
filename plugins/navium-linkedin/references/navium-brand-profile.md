@@ -10,7 +10,7 @@ Practical maritime consultancy, audit, inspection-readiness, training and compet
 Shipowners, ship managers, fleet managers, marine superintendents, vetting teams, crewing managers, Masters, senior officers, training/competency and QHSE professionals.
 
 ## Primary topics
-SIRE 2.0, RISQ 3.1, marine audits, vetting, crew training, competency management, LMS/CMS, shipboard operations, maritime safety and leadership.
+SIRE 2.0, RISQ 3.2, marine audits, vetting, crew training, competency management, LMS/CMS, shipboard operations, maritime safety and leadership.
 
 ## Content objective
 Build professional credibility, educate maritime decision-makers, demonstrate practical expertise and generate qualified conversations without turning every post into an advertisement.
