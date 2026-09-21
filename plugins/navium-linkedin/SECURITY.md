@@ -19,7 +19,7 @@ privately:
 
 - **Preferred:** open a private report via
   [GitHub Security Advisories](https://github.com/puneet6969-a11y/linkedin-skills/security/advisories/new)
-- **Alternative:** email [SECURITY CONTACT EMAIL] with subject `[SECURITY] navium-linkedin`
+- **Alternative:** email `operations@naviumship.com` with subject `[SECURITY] navium-linkedin`
 
 Please include:
 
