@@ -1,0 +1,11 @@
+{
+  "name": "navium-linkedin",
+  "description": "LinkedIn content skills for Navium Maritime: post writing, comment and reply drafting, hook extraction, humanizer and pre-publish audit, profile optimizer, content planner, employee advocacy, thread monitoring, engager analytics, and a Navium brand skill for maritime voice, audience and content pillars.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Navium Maritime Shipping Services Private Limited"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/puneet6969-a11y/linkedin-skills",
+  "keywords": ["navium", "maritime", "linkedin", "marketing", "content-creation"]
+}
